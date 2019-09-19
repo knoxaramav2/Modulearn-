@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modulearn", "Modulearn\Modulearn.csproj", "{EEDD8AB7-6963-4250-A3BE-2AEE027144EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEDD8AB7-6963-4250-A3BE-2AEE027144EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEDD8AB7-6963-4250-A3BE-2AEE027144EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEDD8AB7-6963-4250-A3BE-2AEE027144EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEDD8AB7-6963-4250-A3BE-2AEE027144EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AC0BB37-AFE1-4EF5-A7CD-58E11143C347}
+	EndGlobalSection
+EndGlobal
